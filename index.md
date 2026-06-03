@@ -7,5 +7,7 @@ title: Runke's Personal Page
 
 This is the content of the home page.
 
+Hello world!
+
 - [About Me](about.md)
 - More content for future.
