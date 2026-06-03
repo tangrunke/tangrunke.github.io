@@ -5,10 +5,12 @@ title: Notes for Astrophysics
 
 # This Is My Notes for Astrophysics.
 
+Polarized light has 4 Stokes parameters to describe it:
+$I$, $Q$, $U$ and $V$
+
 $$
 P=Q+iU
 $$
 
-- [Notes for Astrophysics](astro.md)
-- [About Me](about.md)
+- [Return to Home Page](index.md)
 - More content for future.
