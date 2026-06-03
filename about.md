@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 关于我
+title: About Me
 ---
 
-## 关于我
+## About Me
 
-这里是我的个人介绍。你可以写多行文字，也可以加列表、图片等。
+I'm a doctoral student from HUST, majoring in astrophysics.
 
-[返回首页]({{ '/' | relative_url }})
+[Return to Home Page]({{ '/' | relative_url }})
